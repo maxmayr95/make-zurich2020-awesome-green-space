@@ -1,2 +1,2 @@
 # make-zurich2020-awesome-green-space
-Documentation
+![Software Architecture](./images/software_architecture.png)
