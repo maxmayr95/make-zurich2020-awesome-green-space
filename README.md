@@ -1,3 +1,3 @@
 # make-zurich2020-awesome-green-space
-Documentation
-![](./images/software architecture.png)
+
+![Software Architecture](./../images/software architecture.png)
