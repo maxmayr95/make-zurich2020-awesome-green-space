@@ -1,7 +1,7 @@
 # Make Zurich 2020: Awesome Green Space
 
 The software architecture:
-![Software Architecture](./images/software_architecture.png)
+![Software Architecture](https://github.com/maxmayr95/make-zurich2020-awesome-green-space/raw/main/images/software_architecture.png)
 
 Our software architecture has one or more "Discovery board - STM32" with an SGPC3 from Sensirion.
 
