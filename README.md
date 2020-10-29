@@ -24,3 +24,4 @@ The second one is a registry service based on spring boot. [Spring Boot: Backend
 
 For the logic for the fireplaces we made an [Frontend based on Angular](https://github.com/maxmayr95/awesomegreenspace-frontend)
           
+This project was done by me and @seonbinnn .
